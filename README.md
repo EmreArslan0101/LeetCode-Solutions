@@ -20,7 +20,7 @@
             </tr>
             <tr>
                 <td>Day 3</td>
-                <td><a href="Solutions">./December%202023/Day3</a></td>
+                <td><a href="./December%202023/Day3">Solutions</a></td>
             </tr>
         </table>
     </summary>
