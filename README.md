@@ -3,7 +3,6 @@
  I will push every solution that I can found as much as possible in languages as much as possible.
  I mainly use JavaScript and C but I also can code in Phyton, Java and Kotlin, too. Therefore, I am gonna try to put solutions in every language I have listed under here as much as possible.
 # Languages That I Will Use In My Solutions
-# Languages That I Will Use In My Solutions
 - JavaScript <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABSUlEQVRIS+2VMUtCURiGk4KCJvEXRJsOWtCiBQWSQ5NtDU21BEItDUWQbRVBStEQCLXUGhSEIrRY1BZB/YWK1ggaop4P3jvoULfuceoeePi4eO77+r3nu5xIR5tXRPrD1Ixjr0v0Gp5BkYdVxwZr6BVDg+9SDSP6ceb+YURX+hiT1C0FdEjdgUeIwyYM6LdfR3TCi3kYhQuoQQ56oB/uZXJH7YTABovqpESdh2MYh5irDsoILUBCMY21zFXgDl4RHIFbCaep1s2Qqw5M5w12YRueoBuuIeXiDMzgQwdqRrM6h4Ii8xXREZurUIENWIFp2IclOIczsClahnWYgz0/HbyzaRAeoFdxfFJPYQImwUbXlkVj+7vARthuSF8dPGvjDTUKMzAlUYvnQIYv1D79e+/q9WUgrT+VJoMsEobLVUes7t3JLoWbtL4ALVBnGTyniF0AAAAASUVORK5CYII=" alt="jsIcon" width="24" height="24"/> JavaScript
 - C <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABkElEQVRIS9WWyytGQRTAfSKvLEjZiLwX/gJrYqUUFrKRBSWRJCvFho1HWOiTBSt5lChW9pYsRGEvC4odSn6n5tYYM3fu/XKTW7/u3DPnMXPmfGe+VFa8p1ypP0Y1S0VUzEVvGGYhBxZgHt589lECtOBkBZoMZ3d8j8NJWJCwAHUYzkGPZ5VnzI/BtU3PFqAIxUmYgnxfCtT8B+91mIZX3UYPIONuld/KiI5NtQcEM7AJnzIZBGhgvAXNDscvyI/gEmS1VdABjQ79c+T9cBsEGOQj7VDeQT4Cz8Z8tnKyxrvQYjuEbMMXQJz3QQUsQxvkwRUswj6cQmsmASQtNSCHLqkptTi5RybVZnu8O9hWKTjg3eVwEib2BpjAegmk7Ir/ZYAgRYesvjOJHcgh10IZSF2X/PYhi79d6AUpUynLdtDLVAog4zINFrzHQFr1k7ED+aENwCoUWHb3rYp8rUIq6Rgu4B2qQVpFveNsfrQK0Uu02ekLSaxdm7uNc+GMYnxjS9efXpn6ghK99PVAsf+2fAEdW2QZQ4KJvQAAAABJRU5ErkJggg==" alt="cIcon" width="24" height="24"/> C
 - Python <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAB8klEQVRIS7WVSyhFURyG75UivoBsZGdhaasoK1nY2bBFWfh/F7K4V1nIf3ZIIslGWJCIUIQdSbGRL8Lz1py6HTN3fnPvnXqaM2d+87xnzsycSadSqV+wbrMU7sIt1BkuyqYTBKxRK+6g3iKnJmcN2KY4G4y80SpXnSVgj7oM3EBTErkl4IiiIbiE5qTyuIALCvrgDFqKkRcKuOJkDxxDa7HyqIAHTnTDIbSXIg8LeKazE3agq1S5H/BKRwesB9MT589SkIsrcq/pZzAdc+x74y7ivEnu7uCLRhtMw2A55S6ggcYoDBvkmpJruAfTGqYp0gI2ZZBrWn5gC7R09FtCLEuFsiX/DsQVwWA22Q/EhVgCJP+Afaj07nQjeG6R0xUXIPk7HITIXdYqjZGoKS4UIPkb6Iv2R+77VujQi/JviwqQ/AW0mlZFjc7rX+Z4zK8NC5D8CbTQWeXOu0RjPD/ED5D8EU6g2jhyv2yRjgnXmR8guVbS0xLkzrtAY1IHLkByfaHnUFvkyP3L5unIKEBy/W/156opk9xpZv4A3/NgGeMghdoAAAAASUVORK5CYII=" alt="pyIcon" width="24" height="24"/> Python
@@ -21,9 +20,11 @@
             </tr>
             <tr>
                 <td>Day 3</td>
-                <td>[Solutions](./December%202023/Day3)</td>
+                <td>[Solutions][1]</td>
             </tr>
         </table>
     </summary>
 </details>
+
+[1] : "https://github.com/EmreArslan0101/LeetCode-Solutions/tree/main/December%202023/Day3"
 
