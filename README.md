@@ -20,7 +20,7 @@
             </tr>
             <tr>
                 <td>Day 3</td>
-                <td> [Solutions] (https://github.com/EmreArslan0101/LeetCode-Solutions/tree/main/December%202023/Day3) </td>
+                <td><a href="Solutions">./December%202023/Day3</a></td>
             </tr>
         </table>
     </summary>
