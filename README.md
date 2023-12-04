@@ -22,7 +22,7 @@
                 <td>Day 3</td>
                 <td><a href="./December%202023/Day3">Solutions</a></td>
             </tr>
-            <tr>
+            <tr> 
                 <td>Day 4</td>
                 <td><a href="./December%202023/Day4">Solutions</a></td>
             </tr>
