@@ -12,7 +12,7 @@
 
 # Solutions📝
 <details>
-    <summary December 2023>
+    <summary>December 2023</summary>
         <table>
             <tr>
                 <th>Day</th>
@@ -23,5 +23,4 @@
                 <td><a href="./December%202023/Day3">Solutions</a></td>
             </tr>
         </table>
-    </summary>
 </details>
