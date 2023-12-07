@@ -34,5 +34,9 @@
                 <td>Day 6</td>
                 <td><a href="./December%202023/Day6">Solutions</a></td>
             </tr>
+            <tr> 
+                <td>Day 7</td>
+                <td><a href="./December%202023/Day7">Solutions</a></td>
+            </tr>
         </table>
 </details>
