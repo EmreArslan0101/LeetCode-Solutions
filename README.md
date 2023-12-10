@@ -46,5 +46,9 @@
                 <td>Day 9</td>
                 <td><a href="./December%202023/Day9">Solutions</a></td>
             </tr>
+            <tr> 
+                <td>Day 10</td>
+                <td><a href="./December%202023/Day10">Solutions</a></td>
+            </tr>
         </table>
 </details>
